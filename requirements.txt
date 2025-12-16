@@ -1,0 +1,26 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+transformers==4.30.2
+datasets==2.12.0
+tokenizers==0.13.3
+huggingface-hub==0.15.1
+evaluate==0.4.0
+scikit-learn==1.2.2
+pandas==2.0.2
+numpy==1.24.3
+jupyter==1.0.0
+notebook==6.5.4
+ipywidgets==8.0.6
+matplotlib==3.7.1
+seaborn==0.12.2
+tqdm==4.65.0
+sentencepiece==0.1.99
+# Optional: Weights & Biases for experiment tracking
+# wandb==0.15.4
+
+# System Requirements:
+# - Python 3.8 or higher
+# - CUDA 11.8+ (for GPU support)
+# - 8GB RAM minimum (16GB recommended)
+# - 5GB disk space for models and data
