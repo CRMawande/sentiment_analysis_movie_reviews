@@ -56,7 +56,7 @@ tar -xzf aclImdb_v1.tar.gz
 ```
 movie-sentiment-analysis/
 │
-├── movie_reviews.ipynb    
+├── movie_review_analysis.ipynb    
 ├── requirements.txt               
 ├── README.md                      
 ├── results/                       
